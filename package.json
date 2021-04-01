@@ -57,7 +57,7 @@
 		"url": "git://github.com/SheetJS/sheetjs.git"
 	},
 	"scripts": {
-		 "start": "node index.js",
+		 "start": "node xlsx.js",
 		"pretest": "git submodule init && git submodule update",
 		"test": "make travis",
 		"build": "make",
